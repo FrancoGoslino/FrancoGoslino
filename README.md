@@ -2,10 +2,9 @@
 
 Actualmente soy **Asistente en Programación de Plataformas**, a 1 año de finalizar mis estudios de **Analista de Sistemas**.  
 Me encuentro profundizando mis conocimientos y ampliando mi experiencia en este vasto ecosistema tecnológico lleno de crecimiento e innovación.  
-
-Soy **desarrollador full-stack** y entusiasta de la tecnología desde Buenos Aires.  
-Me especializo en **Python**, **Java**, **JavaScript**, **HTML/CSS**, **PHP**, **Node.js** y **bases de datos**.  
-Cuento además con conocimientos en **estructuras de datos y algoritmos**.
+ 
+Me especializo en **Python**, **Java**, **JavaScript**, **HTML/CSS** y **bases de datos**.  
+Cuento además con conocimientos en **estructuras de datos y algoritmos** certificada 
 
 ---
 
@@ -108,6 +107,7 @@ Mi base en diseño me permite crear productos no solo funcionales, sino también
 ## 📜 Certificaciones
 
 - Analista en Sistemas -  Escuela Da Vinci (en curso)
+- Diseñador Gráfico - UBA (incompleto)
 - Programador de Python – CodeHouse (diploma de honor)
 - Data Structures and Algorithms (java) - Tim Buchalka’s Academy
 
@@ -123,13 +123,6 @@ Mi base en diseño me permite crear productos no solo funcionales, sino también
 
 - LinkedIn: (https://www.linkedin.com/in/franco-goslino-744016263/)
 - Telefono: +54 11 3847-4170
-- Email: **francongoslino@gmail.com**
+- Email: **francongoslino@gmail.com** / **frangoslino@gmail.com**
 
 ---
-
-## 🎯 Acerca de mí
-
-- Me encanta aprender nuevas tecnologías.  
-- Disfruto trabajar en proyectos que combinan backend y frontend.  
-- En mi tiempo libre hago … (algún hobbie).
-
