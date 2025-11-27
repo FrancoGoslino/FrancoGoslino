@@ -4,7 +4,7 @@ Actualmente soy **Asistente en Programación de Plataformas**, a 1 año de final
 Me encuentro profundizando mis conocimientos y ampliando mi experiencia en este vasto ecosistema tecnológico lleno de crecimiento e innovación.  
  
 Me especializo en **Python**, **Java**, **JavaScript**, **HTML/CSS** y **bases de datos**.  
-Cuento además con conocimientos en estructuras de datos y algoritmos certificada, conocimientos UX/UIy diseño gráfico.
+Cuento además con conocimientos en estructuras de datos y algoritmos certificada, conocimientos UX/UI y diseño gráfico.
 
 ---
 
